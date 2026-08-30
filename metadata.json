@@ -1,0 +1,7 @@
+{
+  "name": "AegisVPN Ultra - Secure Fast VPN",
+  "description": "High-speed secure VPN with global servers, ad-supported free connection, VIP premium tiers, and Play Store ready architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
